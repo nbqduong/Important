@@ -1,0 +1,16 @@
+	Robot 3T
+
+28,5km hr@robot3t.com
+
+	STYL
+19,1km internship@styl.solutions
+
+
+	bosch
+24,7km yen.nguyenthihoang@vn.bosch.com
+EAS_Embedded Software Developer (Intern)
+
+
+	tictag
+21,8km intern-arduino@tictag.vn
+	 
