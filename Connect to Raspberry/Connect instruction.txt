@@ -1,0 +1,7 @@
+Follow this link: https://www.dexterindustries.com/howto/connecting-raspberry-pi-without-monitor-beginners/#:~:text=Plug%20in%20your%20wifi%20dongle,Raspberry%20Pi%20will%20be%20on.
+
+1. connect  ethernet cable
+2. Plugin power
+3. Open PuTTy
+4. Sign in
+5. Open VNC viewer
